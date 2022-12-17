@@ -1,0 +1,51 @@
+
+nav{
+    height: 80px;
+    width:90vw;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+    text-align: right;
+
+}
+li{
+    display: inline;
+    padding:0px 10px;
+    
+    
+
+}
+
+#main
+{
+width: 90vw;
+}
+
+section{
+    display: flex;
+    padding: 20px;
+}
+
+#sec1
+{
+    padding:20px;
+    font-size: 30px;
+}
+
+.container{
+    height:1000px;
+    width: 90vw;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: bisque;
+    padding: 20px;
+
+}
+
+.container .item{
+    height: 400px;
+    width: 25vw;
+    margin: 40px 60px;
+
+}
